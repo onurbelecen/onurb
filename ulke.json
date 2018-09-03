@@ -1,0 +1,26 @@
+﻿{
+    "ulke":[{
+	"ulkead": "TÜRKİYE",
+        "baskent": "Ankara",
+        "nufus": "79,51 milyon",
+        "alan": "783.562 km²",	
+	"ulkeaciklama": "Türkiye ya da resmî adıyla Türkiye Cumhuriyeti, topraklarının büyük bölümü Anadolu'ya, küçük bir bölümü ise Balkanlar'ın uzantısı olan Trakya'ya yayılmış bir ülke.",
+	"ulkeresim": "http://www.gezilebilecekyerler.com/wp-content/uploads/gezilecek-Yerler.jpg",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png"},{
+        "ulkead": "KANADA",
+        "baskent": "Ottawa",
+        "nufus": "35.295.770",
+        "alan": "9.970.610 km2",
+	"ulkeaciklama": "Kanada, Kuzey Amerika kıtasının en kuzeyindeki ülkedir. Büyüklüğü, Büyük Okyanustan, Kuzey Arktik denizine kadar 9.98 milyon kilometre karedir. Bu özelliğiyle, yüzölçümü bakımından dünyanın en büyük 2. ülkesidir.",
+	"ulkeresim": "https://www.kanadakulturmerkezi.com/wp-content/uploads/2017/11/04-16-kanada.jpg",
+        "resim": "http://flags.fmcdn.net/data/flags/h80/ca.png"},{
+        "ulkead": "Birleşik Krallık",
+        "baskent": "Londra",
+        "nufus": "63.705.000",
+        "alan": "242.900 km2",
+	"ulkeaciklama": "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı, Avrupa'nın batısında, coğrafi olarak Büyük Britanya Adasının tamamını, İrlanda Adası'nın kuzey kısmını ve bazı diğer Britanya Adalarını kapsayan ülke.",
+	"ulkeresim": "https://res.cloudinary.com/turna/image/upload/v1514655917/Londra_jgsg6d.jpg",
+        "resim": "http://flags.fmcdn.net/data/flags/h80/gb.png"},{
+        
+    ]
+}
